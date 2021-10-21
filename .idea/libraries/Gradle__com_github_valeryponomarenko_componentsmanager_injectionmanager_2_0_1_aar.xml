@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.valeryponomarenko.componentsmanager:injectionmanager:2.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9705fdf1ce31753d5e263bef2cd0144f/jetified-injectionmanager-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9705fdf1ce31753d5e263bef2cd0144f/jetified-injectionmanager-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9705fdf1ce31753d5e263bef2cd0144f/jetified-injectionmanager-2.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.valeryponomarenko.componentsmanager/injectionmanager/2.0.1/4287888ef4a04a0b41f305d05f2bd70bdeea4c38/injectionmanager-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

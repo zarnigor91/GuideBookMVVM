@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/main_all_tasks_fragment">
+    <fragment
+        android:id="@+id/main_all_tasks_fragment"
+        android:name="uz.zn.taskalifteach.app.feature.feature.alltask.AllTaskFragment"
+        android:label="AllTaskFragment"
+        tools:layout="@layout/fragment_all_task" />
+    <fragment
+        android:id="@+id/main_completed_tasks_fragment"
+        android:name="uz.zn.taskalifteach.app.feature.feature.completed.CompletedFragment"
+        android:label="CompletedFragment"
+        tools:layout="@layout/fragment_completed" />
+    <fragment
+        android:id="@+id/main_uncompleted_tasks_fragment"
+        android:name="uz.zn.taskalifteach.app.feature.feature.undone.UndoneFragment"
+        android:label="UndoneFragment"
+        tools:layout="@layout/fragment_uncompleted" />
+</navigation>
